@@ -1,16 +1,16 @@
 ---
 title: "Tomato jellyfish"
 scientificName: "Crambione mastigophora"
-date: "2026-04-11"
-excerpt: "Crambione mastigophora – Found in El Nido, Palawan. Threat level: Mildly dangerous to humans.[^3]"
+date: "2026-04-13"
+excerpt: "Crambione mastigophora – Found in Palawan. Threat level: Mildly dangerous to humans.^[3]^"
 image: "/images/jellyfish/xMj_Image_5.png"
 category: "Jellyfish Guide"
-threatLevel: "Mildly dangerous to humans.[^3]"
+threatLevel: "Mildly dangerous to humans.^[3]^"
 ---
 
-**Name/s:** Tomato jellyfish, edible jellyfish, red ball jellyfish, red jellyfish, rhizostomae jellyfish, and sea tomato.[^1]
+**Name:** Tomato jellyfish, edible jellyfish, red ball jellyfish, red jellyfish, rhizostomae jellyfish, and sea tomato.[^1]
 
-**Scientific name:** Crambione mastigophora
+**Scientific name:** *Crambione mastigophora*
 
 **Class:** Scyphozoa
 
@@ -18,11 +18,11 @@ threatLevel: "Mildly dangerous to humans.[^3]"
 
 **Habitat:** They are usually found in deep, cold water during the day but rise to the surface at night to feed. They can also be found washed up along beaches.[^1]
 
-**Threat:** Mildly dangerous to humans.[^3]
+**Threat:** <span style="text - decoration: underline;">Mildly</span> dangerous to humans.[^3]
 
 **Fun fact:** Tomato jellies are edible and are usually consumed semi dried and salted as a snack across southeast Asia.[^4]
 
-![Jellyfish](/images/jellyfish/xMj_Image_5.png)
+![Enter image alt description](/images/jellyfish/xMj_Image_5.png)
 
 ---
 

@@ -1,16 +1,15 @@
 ---
 title: "Alarm jellyfish"
 scientificName: "Atolla wyvillei"
-date: "2026-04-02"
-excerpt: "Atolla wyvillei – Found in El Nido, Palawan. Threat level: Not dangerous [^2]"
-image: "/images/jellyfish/default.png"
+date: "2026-04-13"
+excerpt: "Atolla wyvillei – Found in Palawan. Threat level: Not dangerous ^[2]^"
 category: "Jellyfish Guide"
-threatLevel: "Not dangerous [^2]"
+threatLevel: "Not dangerous ^[2]^"
 ---
 
-**Name/s:** Coronate medusa, deep-sea jellyfish, Atolla jellyfish
+**Name:** Coronate medusa, deep-sea jellyfish, Atolla jellyfish
 
-**Scientific name:** Atolla wyvillei
+**Scientific name:** *Atolla wyvillei*
 
 **Class:** Scyphozoa
 

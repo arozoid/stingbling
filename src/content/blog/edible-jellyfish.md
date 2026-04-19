@@ -1,16 +1,16 @@
 ---
 title: "Edible jellyfish"
 scientificName: "acromitus maculosus"
-date: "2026-04-05"
-excerpt: "acromitus maculosus – Found in El Nido, Palawan. Threat level: Not dangerous to humans"
+date: "2026-04-13"
+excerpt: "acromitus maculosus – Found in Palawan. Threat level: Not dangerous to humans"
 image: "/images/jellyfish/dW8_Image_13.png"
 category: "Jellyfish Guide"
 threatLevel: "Not dangerous to humans"
 ---
 
-**Name/s:** Edible jellyfish, Panther jellyfish
+**Name:** Edible jellyfish, Panther jellyfish
 
-**Scientific name:** acromitus maculosus
+**Scientific name:** *acromitus maculosus*
 
 **Class:** Scyphozoa
 
@@ -18,9 +18,9 @@ threatLevel: "Not dangerous to humans"
 
 **Habitat:** Western central Pacific, mainly in TayTay bay
 
-**Threat:** Not dangerous to humans
+**Threat:** <span style="text - decoration: underline;">Not </span>dangerous to humans
 
-![Jellyfish](/images/jellyfish/dW8_Image_13.png)
+![Enter image alt description](/images/jellyfish/dW8_Image_13.png)
 
 ---
 

@@ -1,16 +1,16 @@
 ---
 title: "Moon jelly"
 scientificName: "Aurelia aurita"
-date: "2026-04-10"
-excerpt: "Aurelia aurita – Found in El Nido, Palawan. Threat level: Not dangerous to humans."
+date: "2026-04-13"
+excerpt: "Aurelia aurita – Found in Palawan. Threat level: Not dangerous to humans."
 image: "/images/jellyfish/8Hi_Image_6.png"
 category: "Jellyfish Guide"
 threatLevel: "Not dangerous to humans."
 ---
 
-**Name/s:** Moon jellyfish/jelly, common jellyfish and saucer jelly.
+**Name:** Moon jellyfish/jelly, common jellyfish and saucer jelly.
 
-**Scientific name:** Aurelia aurita
+**Scientific name:** *Aurelia aurita*
 
 **Class:** Scyphozoa
 
@@ -18,11 +18,11 @@ threatLevel: "Not dangerous to humans."
 
 **Habitat:** They are found in temperate and tropical waters, as well as near the surface of shallow bays and harbors.[^3][^4]
 
-**Threat:** Not dangerous to humans.
+**Threat:** <span style="text - decoration: underline;">Not</span> dangerous to humans.
 
 **Fun fact:** In 1991, NASA launched 2,478 jellyfish polyps into space to test how human babies would react to being raised in a low gravity environment, due to both humans and jellyfish having calcium crystals in their body which is used to help us understand gravity’s pull, this resulted in the jellyfish having trouble navigating in the ocean after the experiment.[^5]
 
-![Jellyfish](/images/jellyfish/8Hi_Image_6.png)
+![Enter image alt description](/images/jellyfish/8Hi_Image_6.png)
 sunset marine labs
 
 ---

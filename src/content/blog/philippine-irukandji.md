@@ -1,16 +1,15 @@
 ---
 title: "Philippine Irukandji"
 scientificName: "Malo filipina"
-date: "2026-04-04"
-excerpt: "Malo filipina – Found in El Nido, Palawan. Threat level: Very dangerous to humans"
-image: "/images/jellyfish/default.png"
+date: "2026-04-13"
+excerpt: "Malo filipina – Found in Palawan. Threat level: Very dangerous to humans"
 category: "Jellyfish Guide"
 threatLevel: "Very dangerous to humans"
 ---
 
-**Name/s:** Philippine Irukandji, Malo filipina
+**Name:** Philippine Irukandji, Malo filipina
 
-**Scientific name:** Malo filipina
+**Scientific name:** *Malo filipina*
 
 **Class:** Cubozoa
 
@@ -18,9 +17,9 @@ threatLevel: "Very dangerous to humans"
 
 **Habitat:** Western Pacific (mainly off the coast of the Philippines)
 
-**Threat:** Very dangerous to humans
+**Threat:** <span style="text - decoration: underline;">Very</span> dangerous to humans
 
-**Treatment:** Immediately flush the area with vinegar to deactivate undischarged nematocysts (the venom) to prevent release of additional venom. Put a heat pack on anywhere painful and take Nitroglycerin to delay and manage the on-set of symptoms.
+**Treatment : **Immediately flush the area with vinegar to deactivate undischarged nematocysts (the venom) to prevent release of additional venom. Put a heat pack on anywhere painful and take <span style="text - decoration: underline;">Nitroglycerin</span> to delay and manage the on-set of symptoms.
 
 **Fun fact:** the name Malo comes from the first two letters of Mark Longhurst, a man who survived a severe sting from the Malo genus. It also coincidentally means "bad" in Spanish
 

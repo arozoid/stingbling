@@ -1,16 +1,16 @@
 ---
 title: "Sea wasp"
 scientificName: "Chiropsalmus quadrigatus"
-date: "2026-04-07"
-excerpt: "Chiropsalmus quadrigatus – Found in El Nido, Palawan. Threat level: Very dangerous to humans"
+date: "2026-04-13"
+excerpt: "Chiropsalmus quadrigatus – Found in Palawan. Threat level: Very dangerous to humans"
 image: "/images/jellyfish/iA8_Image_10.png"
 category: "Jellyfish Guide"
 threatLevel: "Very dangerous to humans"
 ---
 
-**Name/s:** Sea wasp
+**Name:** Sea wasp
 
-**Scientific name:** Chiropsalmus quadrigatus
+**Scientific name:** *Chiropsalmus quadrigatus*
 
 **Class:** Cubozoa
 
@@ -18,11 +18,11 @@ threatLevel: "Very dangerous to humans"
 
 **Habitat:** Found in the Indo-Pacific ocean but mainly around the Philippines^[ ]^ and Australia. It can appear during a rising tide with calm weather.
 
-**Threat:** Very dangerous to humans
+**Threat:** <span style="text - decoration: underline;">Very</span> dangerous to humans
 
 **Fun fact:** Various types of turtles and sea slugs are immune to the sea wasp’s stinging cells, making these jellies a perfect snack.
 
-![Jellyfish](/images/jellyfish/iA8_Image_10.png)
+![Enter image alt description](/images/jellyfish/iA8_Image_10.png)
 [https://www.marinespecies.org/aphia.php?p=taxdetails&id=527672#distributions](https://www.marinespecies.org/aphia.php?p=taxdetails&id=527672#distributions)
 
 - [https://animaldiversity.org/accounts/Chiropsalmus_quadrigatus/](https://animaldiversity.org/accounts/Chiropsalmus_quadrigatus/)

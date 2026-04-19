@@ -1,16 +1,16 @@
 ---
 title: "Amakusa jelly"
 scientificName: "Sanderia malayensis"
-date: "2026-04-06"
-excerpt: "Sanderia malayensis – Found in El Nido, Palawan. Threat level: Very dangerous to humans"
+date: "2026-04-13"
+excerpt: "Sanderia malayensis – Found in Palawan. Threat level: Very dangerous to humans"
 image: "/images/jellyfish/2N7_Image_12.png"
 category: "Jellyfish Guide"
 threatLevel: "Very dangerous to humans"
 ---
 
-**Name/s:** Amakusa jelly, malaysian jellies
+**Name:** Amakusa jelly, malaysian jellies
 
-**Scientific name:** Sanderia malayensis
+**Scientific name:** *Sanderia malayensis*
 
 **Class:** Scyphozoa
 
@@ -18,11 +18,11 @@ threatLevel: "Very dangerous to humans"
 
 **Habitat:** Indo-Pacific
 
-**Threat:** Very dangerous to humans
+**Threat:** <span style="text - decoration: underline;">Very</span> dangerous to humans
 
 **Fun fact:** They are jellyvorous, meaning they feed on other jellyfish, typically moon jellies
 
-![Jellyfish](/images/jellyfish/2N7_Image_12.png)
+![Enter image alt description](/images/jellyfish/2N7_Image_12.png)
 
 *there is not much information on this jelly, some info may be inaccurate.
 

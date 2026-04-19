@@ -1,16 +1,15 @@
 ---
 title: "Sivickis’ Box jelly"
 scientificName: "Copula sivickisi"
-date: "2026-04-03"
-excerpt: "Copula sivickisi – Found in El Nido, Palawan. Threat level: Not dangerous to humans (mild sting) [^2]"
-image: "/images/jellyfish/default.png"
+date: "2026-04-13"
+excerpt: "Copula sivickisi – Found in Palawan. Threat level: Not dangerous to humans (mild sting) ^[2]^"
 category: "Jellyfish Guide"
-threatLevel: "Not dangerous to humans (mild sting) [^2]"
+threatLevel: "Not dangerous to humans (mild sting) ^[2]^"
 ---
 
-**Name/s:** Box jellyfish
+**Name:** Box jellyfish
 
-**Scientific name:** Copula sivickisi
+**Scientific name:** *Copula sivickisi*
 
 **Class:** Cubozoa
 
@@ -18,7 +17,7 @@ threatLevel: "Not dangerous to humans (mild sting) [^2]"
 
 **Habitat:** comes out at night only
 
-**Threat:** Not dangerous to humans (mild sting) [^2]
+**Threat:** <span style="text - decoration: underline;">Not</span> dangerous to humans (mild sting) [^2]
 
 **Fun fact:** Unlike the majority of sea jellies spawn into the water, the Sivickis’ box jelly performs a courtship ritual known as the "wedding dance” where the male attaches his tentacles to the female and clings to her as he draws her in to impregnate her. [^3]
 

@@ -2,7 +2,7 @@
 title: "Spotted jelly"
 scientificName: "Mastigias papua"
 date: "2026-04-13"
-excerpt: "Mastigias papua – Found in El Nido, Palawan. Threat level: Mildly dangerous to humans."
+excerpt: "Mastigias papua – Found in Palawan. Threat level: Mildly dangerous to humans."
 image: "/images/jellyfish/1Yl_Image_1.png"
 category: "Jellyfish Guide"
 threatLevel: "Mildly dangerous to humans."
@@ -10,7 +10,7 @@ threatLevel: "Mildly dangerous to humans."
 
 **Name:** spotted jelly, lagoon jelly, golden medusa, and Papuan jellyfish. [^1]
 
-**Scientific name:** Mastigias papua
+**Scientific name:** *Mastigias papua*
 
 **Class:** Scyphozoa
 
@@ -18,14 +18,14 @@ threatLevel: "Mildly dangerous to humans."
 
 **Habitat:** They rise near the surface during the day until the sun sets, then they sink further down into the ocean for the night.[^2]
 
-**Threat:** Mildly dangerous to humans.
+**Threat:** <span style="text - decoration: underline;">Mildly</span> dangerous to humans.
 
 **Fun fact:** These jellies have what's called a zooxanthellae in their tissues, which is a photosynthetic alga. This causes them to be bright yellow, hence their name of Golden medusa. [^3]
 
 Spotted jellyfish can be found in Pulau in large groups called “smacks”. The most famous spot to admire them is at Ongeim'l Tketau Lake in Pulau, also known as the Jellyfish lake. [^4]
 
-![Jellyfish](/images/jellyfish/1Yl_Image_1.png)
-![Jellyfish](/images/jellyfish/w0b_Image_2.png)
+![Enter image alt description](/images/jellyfish/1Yl_Image_1.png)
+![Enter image alt description](/images/jellyfish/w0b_Image_2.png)
 
 ---
 

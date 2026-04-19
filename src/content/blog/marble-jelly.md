@@ -1,16 +1,16 @@
 ---
 title: "Marble jelly"
 scientificName: "Catostylus townsendi"
-date: "2026-04-09"
-excerpt: "Catostylus townsendi – Found in El Nido, Palawan. Threat level: Mildly dangerous (mild burning sensation)."
+date: "2026-04-13"
+excerpt: "Catostylus townsendi – Found in Palawan. Threat level: Mildly dangerous (mild burning sensation)."
 image: "/images/jellyfish/MsE_Image_7.png"
 category: "Jellyfish Guide"
 threatLevel: "Mildly dangerous (mild burning sensation)."
 ---
 
-**Name/s:** Marble jelly[^1], fat armed jelly[^2], blue jelly [^3]
+**Name:** Marble jelly[^1], fat armed jelly[^2], blue jelly [^3]
 
-**Scientific name:** Catostylus townsendi
+**Scientific name:** *Catostylus townsendi*
 
 **Class:** Scyphozoa
 
@@ -18,11 +18,11 @@ threatLevel: "Mildly dangerous (mild burning sensation)."
 
 **Habitat:** The marble jellyfish reside in brackish lagoons[^3]
 
-**Threat:** Mildly dangerous (mild burning sensation).
+**Threat:** <span style="text - decoration: underline;">Mildly</span> dangerous (mild burning sensation).
 
 **Fun fact:** In Vietnam it is a delicacy to eat marble jelly, or as they call it, blue jellyfish due to the various shades of blue it presents, which depends on the type of water they reside in. They are typically served as a cold salad in summer sashimi style.[^3]
 
-![Jellyfish](/images/jellyfish/MsE_Image_7.png)
+![Enter image alt description](/images/jellyfish/MsE_Image_7.png)
 wikipedia
 
 ---

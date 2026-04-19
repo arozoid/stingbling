@@ -1,16 +1,16 @@
 ---
 title: "Sand jellyfish"
 scientificName: "Rhopilema hispidum"
-date: "2026-04-08"
-excerpt: "Rhopilema hispidum – Found in El Nido, Palawan. Threat level: Mildly dangerous (severe stinging and burning sensation)[^2]"
+date: "2026-04-13"
+excerpt: "Rhopilema hispidum – Found in Palawan. Threat level: Mildly dangerous (severe stinging and burning sensation)^[2]^"
 image: "/images/jellyfish/UwJ_Image_8.png"
 category: "Jellyfish Guide"
-threatLevel: "Mildly dangerous (severe stinging and burning sensation)[^2]"
+threatLevel: "Mildly dangerous (severe stinging and burning sensation)^[2]^"
 ---
 
-**Name/s:** Sand jellyfish[^1], edible jellyfish, hizen kurage[^2]
+**Name:** Sand jellyfish[^1], edible jellyfish, hizen kurage[^2]
 
-**Scientific name:** Rhopilema hispidum
+**Scientific name:** *Rhopilema hispidum*
 
 **Class:** Scyphozoa
 
@@ -18,12 +18,12 @@ threatLevel: "Mildly dangerous (severe stinging and burning sensation)[^2]"
 
 **Habitat:** It resides in tropical waters especially within coastal areas like bays and estuaries.[^1]
 
-**Threat:** Mildly dangerous (severe stinging and burning sensation)[^2]
+**Threat:** <span style="text - decoration: underline;">Mildly</span> dangerous (severe stinging and burning sensation)[^2]
 
 **Fun fact:** These jellyfish are a popular dried snack in China, Korea, and Japan, alongside just being commonly eaten in eastern and southeastern Asia.[^3]
 
-![Jellyfish](/images/jellyfish/UwJ_Image_8.png)
-![Jellyfish](/images/jellyfish/x9r_Image_9.png)
+![Enter image alt description](/images/jellyfish/UwJ_Image_8.png)
+![Enter image alt description](/images/jellyfish/x9r_Image_9.png)
 
 #
 
